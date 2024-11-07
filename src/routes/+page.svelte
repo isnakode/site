@@ -10,7 +10,9 @@
       Portfolio
     </span>
     oleh
-    <span class="bg-blue-500 text-white p-1.5 pt-0.5 rounded-md">
+    <span
+      class="bg-blue-500 text-white p-1.5 pt-0.5 whitespace-nowrap rounded-md"
+    >
       Muhammad isnaini
     </span>
   </p>
