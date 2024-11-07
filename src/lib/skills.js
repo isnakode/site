@@ -6,6 +6,8 @@ export const langs = [
   { title: 'typescript', icon: '/icons/typescript.svg' },
   { title: 'dart', icon: '/icons/dart.svg' },
   { title: 'python', icon: '/icons/python.svg' },
+  { title: 'kotlin', icon: '/icons/kotlin.svg' },
+  { title: 'rust', icon: '/icons/rust.svg' },
 ]
 export const tools = [
   { title: 'bun', icon: '/icons/bun.svg' },
