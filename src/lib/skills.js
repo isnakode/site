@@ -7,7 +7,7 @@ export const langs = [
   { title: 'dart', icon: '/icons/dart.svg' },
   { title: 'python', icon: '/icons/python.svg' },
   { title: 'kotlin', icon: '/icons/kotlin.svg' },
-  { title: 'rust', icon: '/icons/rust.svg' },
+  // { title: 'rust', icon: '/icons/rust.svg' },
 ]
 export const tools = [
   { title: 'bun', icon: '/icons/bun.svg' },
@@ -15,6 +15,7 @@ export const tools = [
   { title: 'git', icon: '/icons/git.svg' },
   { title: 'PNPM', icon: '/icons/pnpm.svg' },
   { title: 'composer', icon: '/icons/composer.svg' },
+  { title: 'postman', icon: '/icons/postman.svg' },
 ]
 export const fws = [
   { title: 'fastapi', icon: '/icons/fastapi.svg' },
